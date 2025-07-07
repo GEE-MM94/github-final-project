@@ -1,13 +1,5 @@
-Please consider the below factors while contributing
+The simple interest calculator project.
 
-Code Style:
-Maintain a consistent code style for readability.
+Developed  to empower and provide opportunities for low-income individuals by providing the tools and capabilities to calculate simple interest.
 
-Documentation:
-Ensure well-documented code for effective collaboration.
 
-Code Review:
-All contributions undergo a code review process.
-
-Licensing:
-Contributions are licensed.Please consider the above factors while contributing
